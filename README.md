@@ -10,4 +10,4 @@
  
  (pkg list) : https://github.com/peter-hook/PS4-JAILBREAK-2021/blob/main/README.md
  
- (game) scribble nauts mega pack: https://ps4pkg.com/scribblenauts-mega-pack-ps4-pkg/
+ (game) scribble nauts mega pack: https://github.com/peter-hook/PS4-JAILBREAK-2021/releases/tag/ps4_7.xx
