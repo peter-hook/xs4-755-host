@@ -6,6 +6,10 @@
  
  (jb + mira) HAKKURAIFU: https://hakkuraifu.github.io/PS4xploit/
  
+ (Menu + Cache Offline) TheWolf: https://thewolfgames.github.io/wolf/1index.html
+ 
+ 
+ 
  # PS4 7.xx PKGs
  
  (pkg list) : https://github.com/peter-hook/PS4-JAILBREAK-2021/blob/main/README.md
