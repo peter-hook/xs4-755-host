@@ -1,3 +1,3 @@
-# PS4 7.55 HOST
+# PS4 7.xx HOST
 
- Kameleon: https://kameleonreloaded.github.io/index750.html
+ (jb + mira) Kameleon: https://kameleonreloaded.github.io/index750.html
