@@ -8,6 +8,8 @@
  
  (Menu + Cache Offline) TheWolf: https://thewolfgames.github.io/wolf/1index.html
  
+ (quitar candados) TheWolf: https://thewolfgames.github.io/755/rif-renamer.html
+ 
  
  
  # PS4 7.xx PKGs
