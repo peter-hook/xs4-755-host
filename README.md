@@ -1,5 +1,7 @@
 # PS4 7.xx HOST
 
+(host) GamerHack93: https://gamerhack.github.io/ps4jb755/
+
  (jb + mira) Kameleon: https://kameleonreloaded.github.io/index750.html
  
  (jb + mira) Gamerhack: https://gamerhack.github.io/750-755-test/
